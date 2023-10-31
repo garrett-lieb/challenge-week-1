@@ -1,11 +1,26 @@
 # challenge-week-1
-week 1 challenge assignment
 
-    The goal of this is to gain greater familiarity with html semantic structure and practice editing CSS sheets for greater efficiency and clarity. This was achieved through a mock exercise editing a fictitious client's website. 
+## Description
+
+This website was edited from an existing body of code as a weekly challenge for students in the Univeristy of Oregon Coding Bootcamp in October of 2023. The goal of this exercise was to gain greater familiarity with html semantic structure and practice editing CSS sheets for greater efficiency and clarity. This was achieved through a mock exercise editing a fictitious client's website. In doing so, students learned about how efficient code that includes alt descriptors for images can help drive web traffic to a given site.
 
     [ INCLUDE SCREENSHOT OF FINSIHED, DEPLOYED PAGE ]
     [ INCLUDE LINK TO FINISHED, DEPLOYED PAGE ]
     
+## Instalation
+
+N/A
+
+## Usage
+
+This website contains alt descriptors and notes about changes made to CSS in the editing process whe he Chrome DevTools are opened by pressing Command+Option+I (macOS) or Control+Shift+I (Windows.)  
+
+## Credits
+
+N/A
+
+## Liscence
+
 
 # 01 HTML, CSS, and Git: Code Refactor
 
