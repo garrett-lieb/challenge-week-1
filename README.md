@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-This website contains alt descriptors and notes about changes made to CSS in the editing process whe he Chrome DevTools are opened by pressing Command+Option+I (macOS) or Control+Shift+I (Windows.)  
+This website contains alt descriptors and notes about changes made to CSS in the editing process whe he Chrome DevTools are opened by pressing Command+Option+I (macOS) or Control+Shift+I (Windows.) 
 
 ## Credits
 
