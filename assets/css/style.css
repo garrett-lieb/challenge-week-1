@@ -59,14 +59,6 @@ figure {
     background-position: center;
 }
 
-figcaption {
-    background: #2a607c;
-    color: white;
-    position: absolute;
-    bottom: -122.5px;
-    right: 0px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
