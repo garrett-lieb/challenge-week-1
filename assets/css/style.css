@@ -58,7 +58,13 @@ figure {
     background-size: cover;
     background-position: center;
 }
-
+figcaption {
+    background: rgba(255, 255, 255, 0.984);
+    color: black;
+    position: absolute;
+    bottom: -122.5px;
+    right: 0;
+}
 .content {
     width: 75%;
     display: inline-block;
