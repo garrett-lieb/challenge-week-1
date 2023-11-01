@@ -4,9 +4,14 @@
 
 This website was edited from an existing body of code as a weekly challenge for students in the Univeristy of Oregon Coding Bootcamp in October of 2023. The goal of this exercise was to gain greater familiarity with html semantic structure and practice editing CSS sheets for greater efficiency and clarity. This was achieved through a mock exercise editing a fictitious client's website. In doing so, students learned about how efficient code that includes alt descriptors for images can help drive web traffic to a given site.
 
-   
-    [ DEPLOYED PAGE: https://garrett-lieb.github.io/challenge-week-1/]
-    [ GITHUB REPO: https://github.com/garrett-lieb/challenge-week-1]
+    [ SOURCE CODE (class git repo):
+        https://git.bootcampcontent.com/University-of-Oregon/UofO-VIRT-FSF-PT-10-2023-U-LOLC/-/blob/main/01-HTML-Git-CSS/02-Challenge/Develop/index.html]
+
+    [ DEPLOYED PAGE: 
+        https://garrett-lieb.github.io/challenge-week-1/]
+    
+    [ Garrett Lieb GITHUB REPO: 
+        https://github.com/garrett-lieb/challenge-week-1]
     
 ## Instalation
 
