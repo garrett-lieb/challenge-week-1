@@ -63,8 +63,9 @@ figcaption {
     color: white;
     position: absolute;
     bottom: -122.5px;
-    right: 0;
+    right: 0;q
 }
+
 .content {
     width: 75%;
     display: inline-block;
